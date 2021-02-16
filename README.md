@@ -6,4 +6,4 @@ o arquivo de conexão ja está configurado caso você queira usar o xammp
 
 dentro da pasta database estam as querys para a criação do banco
 
-depois que os pacotes estiverem instalados, abra o terminal na pasta do arquivo e execute o seguinte comando: npx nodemon src/database/querySql.js
+depois que os pacotes estiverem instalados usando o npm ou yarn, abra o terminal na pasta do arquivo e execute o seguinte comando: npx nodemon src/database/querySql.js
